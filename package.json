@@ -1,8 +1,8 @@
 {
-  "name": "my-next-app",
+  "name": "michelleferris",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://spookycthulhu.github.io/Portfolio/",
+  "homepage": "https://michelleferris.dev/",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
