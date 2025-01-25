@@ -7,7 +7,8 @@
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy": "gh-pages -d out --nojekyll --cname www.michelleferris.dev"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
