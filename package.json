@@ -4,12 +4,11 @@
   "private": true,
   "homepage": "https://michelleferris.dev/",
   "scripts": {
-      "dev": "next dev",
-      "build": "next build && next export",
-      "start": "next start",
-      "lint": "next lint",
-      "deploy": "gh-pages -d out --nojekyll --cname www.michelleferris.dev"
-    },
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
